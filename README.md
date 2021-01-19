@@ -1,4 +1,4 @@
-# helloworld
+# Random Word Generator
 
 A new Flutter application.
 
